@@ -8,3 +8,7 @@ The product is a Sketching App for contractors. The user of the App is a contrac
 - The new customer screen will have the following fields: Name, Phone, Email, Notes text area. Below it I have a white area to sketch using my finger. Then I click Submit button to save the customer record (the sketch photo will be saved on the cloud (Firebase)).
 
 - A login system, the login credentials is as follows: Username "contractor", Password: "12345".
+
+you can download and test the apk from this link: |
+
+https://drive.google.com/open?id=1-RHqeFptaiaFMB3kQannaG11MRSyZ7Da
